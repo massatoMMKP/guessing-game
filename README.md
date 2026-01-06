@@ -13,13 +13,17 @@ This is a number guessing game written in Python. The program randomly selects a
 ## Requirements
 - Python 3.x
 
-## Execution
-To run the game, follow these steps:
+## Usage
 
-1. Ensure you have Python 3.x installed on your computer.
-2. Save the source code in a file named `guessing_game.py`.
-3. Open a terminal or command prompt.
-4. Navigate to the directory where the `guessing_game.py` file is saved.
-5. Execute the command:
-   ```bash
-   python guessing_game.py
+1. Clone the repository or download the script file.
+2. Navigate into the project folder.
+3. Run the script using Python (depending on your system, use `python` or `python3`).
+4. Follow the on-screen prompts to play the game.
+
+```sh
+git clone https://github.com/massatoMMKP/guessing-game.git
+cd guessing-game
+python game.py
+# or
+python3 game.py
+
